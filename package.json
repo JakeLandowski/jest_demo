@@ -1,0 +1,16 @@
+{
+  "name": "teach_in_jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "stuff.js",
+  "dependencies": {
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.26.2",
+    "jest": "^23.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}
